@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 42%;
+  bottom: 42%;
+}
+
+.ui.vertical.masthead {
+  background-color: #A38C67;
+}
+
+.masthead-title {
+  font-family:'Poppins', sans-serif;
+  letter-spacing: 4px;
+  font-size: 40px;
+  font-weight: 400;
+  color: white;
+  padding: 20px;
+}
+
+.text1 {
+  margin: 5px 10px !important;
+  font-size: 1.3rem;
+}
