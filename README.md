@@ -1,5 +1,8 @@
 # Carrier-Goose
+<img width="1440" alt="carriergoose" src="https://user-images.githubusercontent.com/45378799/133916962-c3362537-c284-4710-a369-c93e9acc5ed5.png">
+
 ## Inspiration
+
 As 1A students at the University of Waterloo, we faced many struggles in our first two weeks of university attempting to remember all the new information. We naturally began to quiz each other on concepts throughout the day. Thus, when Hack the North came along and we discovered Twilio’s intuitive SMS API, we were inspired to automate this process and quiz ourselves on topics we struggle with most.
 
 ## What it does
