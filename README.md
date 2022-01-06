@@ -18,7 +18,7 @@ Lacking experience and knowledge in node.js and APIs proved to come with many ch
 Despite not attaining the final project that we had originally hoped for, we all learned to persevere and push each other to keep working hard during our first in-person hackathon. With hours spent troubleshooting bugs and perusing Stack Overflow, we are proud to have persisted over the entire weekend and come out with several functional features. We hope to continue to be proud of this project as we develop it further in the future.
 
 ## What we learned
-Having come into this hacckathon with barely any knowledge in any subject areas, we all learned plenty about each of the technical platforms that we worked with. 
+Having come into this hackathon with barely any knowledge in any subject areas, we all learned plenty about each of the technical platforms that we worked with. 
 
 ## What's next for Carrier Goose
 Carrier Goose will continue to grow as we implement user input for scheduled texts and integrate a reply feature in the Twilio API. As well, we hope to host the website to allow for others to use the web app for their studies.
